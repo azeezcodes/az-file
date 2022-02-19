@@ -1,0 +1,74 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    width: 1170px;
+    margin: auto;
+}
+
+.container-fluid{
+    width: 100%;
+
+}
+
+#logo{
+    margin-top:21px;
+    float: left;
+    margin-right: 45px;
+}
+
+#menu{
+    padding-top: 56px;
+    float: left
+}
+
+#menu a{
+    color: black;
+    margin-right: 22px;
+    text-decoration: none;
+}
+
+#search{
+    float: right;
+    padding-top: 44px;
+}
+
+.txt_data{
+    background-color: #F0F0F0;
+    border-width: 1px;
+    border-color: #C5C5C5;
+    border-style: solid;
+    width: 378px;
+    height: 43px;
+}
+
+.btn_go{
+    background-color: #E5AD22;
+    color: #000;
+    border-width: 1px;
+    border-color: #C5C5C5;
+    border-style: solid;
+    height: 43px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#banner{
+    padding-top:13px;
+}
+
+#left_content{
+    margin-top: 31px;;
+    width:49%;
+    float:left;
+}
+
+#right_content{
+    margin-top: 64px;
+    float: right;
+    margin-bottom:100px;
+}
+
+.polaroid
